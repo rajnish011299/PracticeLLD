@@ -21,9 +21,4 @@ class Snake
             return new Snake(mouth, tail);
         }
     }
-
-    public void Bite()
-    {
-        // Not implemented
-    }
 }
