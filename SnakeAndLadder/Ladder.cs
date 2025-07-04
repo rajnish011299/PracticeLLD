@@ -22,9 +22,4 @@ class Ladder
             return new Ladder(head, foot);
         }
     }
-
-    public void Climb()
-    {
-        // Not implemented
-    }
 }
