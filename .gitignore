@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# But not these:
+!*.cs
+!*.csproj
+!*.txt
+
+# Also allow folders (so Git can reach the files)
+!*/
+
+# Ignore bin and obj folders completely
+bin/
+obj/
